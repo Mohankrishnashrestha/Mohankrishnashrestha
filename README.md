@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Badges
-![](https://github-readme-stats.vercel.app/api?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Mohankrishnashrestha&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohankrishnashrestha&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohankrishnashrestha&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
